@@ -33,9 +33,7 @@ This version is a **functional prototype**, created to demonstrate the gameplay 
 
 ## 📸 Screenshots
 
-![Ekran görüntüsü 2025-06-02 235225](https://github.com/user-attachments/assets/6ba6dfed-0f8d-40f9-952a-de28c769ab4d)
-
-![Ekran görüntüsü 2025-06-03 000149](https://github.com/user-attachments/assets/0a53ad5b-045d-4fff-87b5-2d152baf8d4b)
+![Ekran görüntüsü 2025-06-02 235225](https://github.com/user-attachments/assets/6ba6dfed-0f8d-40f9-952a-de28c769ab4d) ![Ekran görüntüsü 2025-06-03 000149](https://github.com/user-attachments/assets/0a53ad5b-045d-4fff-87b5-2d152baf8d4b)
 
 
 
